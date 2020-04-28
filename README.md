@@ -2,6 +2,6 @@
 
 ## Zadání
 
-Napište HTML a CSS podle grafického návrhu.
+Uprav CSS v souboru `style.css` podle grafického návrhu.
 
-![Grafický návrh](vysledek.jpg)
+![Grafický návrh](navod.jpg)
